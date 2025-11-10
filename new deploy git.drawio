@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
+  <diagram name="Page-1" id="VxmKDO5cE0rTMGhyW3qT">
+    <mxGraphModel dx="978" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ATljyBValw-B1nq_51ts-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ATljyBValw-B1nq_51ts-1" target="ATljyBValw-B1nq_51ts-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-10" value="Merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATljyBValw-B1nq_51ts-7">
+          <mxGeometry x="-0.1244" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-1" value="DEV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ATljyBValw-B1nq_51ts-2" target="ATljyBValw-B1nq_51ts-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-11" value="Merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATljyBValw-B1nq_51ts-8">
+          <mxGeometry x="-0.0578" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-2" value="INT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATljyBValw-B1nq_51ts-3" target="ATljyBValw-B1nq_51ts-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-12" value="Metge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATljyBValw-B1nq_51ts-9">
+          <mxGeometry x="0.0089" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-3" value="REC/UAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-4" value="PRD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="669" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ATljyBValw-B1nq_51ts-5" target="ATljyBValw-B1nq_51ts-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-13" value="Merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATljyBValw-B1nq_51ts-6">
+          <mxGeometry x="0.02" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-5" value="R13439&lt;br&gt;branche perso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-16" value="DEV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-19" value="INT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-22" value="REC/UAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-23" value="PRD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="669" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.079;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ATljyBValw-B1nq_51ts-26" target="ATljyBValw-B1nq_51ts-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-25" value="Merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATljyBValw-B1nq_51ts-24">
+          <mxGeometry x="0.02" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.355;exitY=0.967;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="ATljyBValw-B1nq_51ts-26" target="ATljyBValw-B1nq_51ts-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-31" value="Merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATljyBValw-B1nq_51ts-28">
+          <mxGeometry x="-0.0312" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ATljyBValw-B1nq_51ts-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="461" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-32" value="Metge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATljyBValw-B1nq_51ts-29">
+          <mxGeometry x="-0.0967" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.904;exitY=0.993;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="ATljyBValw-B1nq_51ts-26" target="ATljyBValw-B1nq_51ts-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-33" value="Merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATljyBValw-B1nq_51ts-30">
+          <mxGeometry x="-0.0137" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATljyBValw-B1nq_51ts-26" value="R13439 (Branche Perso)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="400" width="761" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
